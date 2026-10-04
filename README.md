@@ -127,7 +127,7 @@ This project implements a **Relational Database Management System (RDBMS)** appr
 ```bash
 # Clone the repository
 git clone https://github.com/ankity1206/Quantum-Data-Management-Project.git
-cd quantum-rdbms
+cd Quantum-Data-Management-Project
 
 # Create virtual environment
 python -m venv venv
