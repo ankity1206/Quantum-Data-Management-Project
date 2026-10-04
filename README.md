@@ -1,6 +1,6 @@
 # Quantum Data Management: RDBMS-Based Quantum Simulator
 
-Thsi project explored using **sparse RDBMS representations** for quantum state simulation in the NISQ era. This simulator achieves **exponential memory compression** for sparse quantum circuits while providing **SQL query capabilities** for quantum data analysis.
+This project explored using **sparse RDBMS representations** for quantum state simulation in the NISQ era. This simulator achieves **exponential memory compression** for sparse quantum circuits while providing **SQL query capabilities** for quantum data analysis.
 
 ---
 
